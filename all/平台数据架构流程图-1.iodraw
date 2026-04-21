@@ -64,7 +64,7 @@
         <mxCell id="OTSzIn5FL8yCRSP8Tnob-333" value="模型可信度评估" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#0066CC;fontSize=15;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="485" y="210" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="OTSzIn5FL8yCRSP8Tnob-334" value="" style="endArrow=none;dashed=1;html=1;fontSize=15;fontColor=#FFFFFF;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1">
+        <mxCell id="OTSzIn5FL8yCRSP8Tnob-334" value="" style="endArrow=none;dashed=1;html=1;fontSize=15;fontColor=#FFFFFF;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="630" y="260" as="sourcePoint" />
             <mxPoint x="629.9999999999998" y="120" as="targetPoint" />
@@ -109,7 +109,7 @@
         <mxCell id="OTSzIn5FL8yCRSP8Tnob-347" value="软件原型与可视化模块" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#006EAF;fillColor=#007FFF;fontSize=15;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="650" y="367" width="160" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="OTSzIn5FL8yCRSP8Tnob-348" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;fontColor=#FFFFFF;strokeWidth=6;strokeColor=#999999;" parent="1" edge="1">
+        <mxCell id="OTSzIn5FL8yCRSP8Tnob-348" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;fontColor=#FFFFFF;strokeWidth=7;strokeColor=#999999;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="330" y="512" as="sourcePoint" />
             <mxPoint x="390" y="512" as="targetPoint" />
