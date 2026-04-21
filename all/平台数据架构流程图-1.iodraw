@@ -19,7 +19,7 @@
         <mxCell id="OTSzIn5FL8yCRSP8Tnob-319" value="银&lt;br style=&quot;font-size: 20px;&quot;&gt;行&lt;br style=&quot;font-size: 20px;&quot;&gt;应&lt;br style=&quot;font-size: 20px;&quot;&gt;用" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0066CC;fontSize=20;fontColor=#FFFFFF;strokeColor=none;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="101.5" y="120" width="50" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="OTSzIn5FL8yCRSP8Tnob-320" value="分&lt;br style=&quot;font-size: 20px;&quot;&gt;析&lt;br style=&quot;font-size: 20px;&quot;&gt;模&lt;br style=&quot;font-size: 20px;&quot;&gt;型" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontSize=20;fontColor=#ffffff;strokeColor=none;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="OTSzIn5FL8yCRSP8Tnob-320" value="分&lt;br style=&quot;font-size: 20px;&quot;&gt;析&lt;br style=&quot;font-size: 20px;&quot;&gt;模&lt;br style=&quot;font-size: 20px;&quot;&gt;型" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontSize=20;strokeColor=#006EAF;fontStyle=1;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="101.5" y="280" width="50" height="100" as="geometry" />
         </mxCell>
         <mxCell id="OTSzIn5FL8yCRSP8Tnob-321" value="数&lt;br style=&quot;font-size: 20px;&quot;&gt;据&lt;br style=&quot;font-size: 20px;&quot;&gt;储&lt;br style=&quot;font-size: 20px;&quot;&gt;存" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#66CC00;fontSize=20;fontColor=#FFFFFF;strokeColor=none;fontStyle=1" parent="1" vertex="1">
