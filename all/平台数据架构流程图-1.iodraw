@@ -94,7 +94,7 @@
         <mxCell id="OTSzIn5FL8yCRSP8Tnob-342" value="反向/伴随概率模型" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#006EAF;fillColor=#1ba1e2;fontSize=15;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="310" y="300" width="172" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="OTSzIn5FL8yCRSP8Tnob-343" value="财务分析模型" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#006EAF;fillColor=#1ba1e2;fontSize=15;fontColor=#ffffff;" parent="1" vertex="1">
+        <mxCell id="OTSzIn5FL8yCRSP8Tnob-343" value="有限元/有限体积模型" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#006EAF;fillColor=#1ba1e2;fontSize=15;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="310" y="367" width="172" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OTSzIn5FL8yCRSP8Tnob-344" value="&lt;span style=&quot;background-color: initial;&quot;&gt;反向概率推断模型&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#006EAF;fillColor=#1ba1e2;fontSize=15;fontColor=#ffffff;" parent="1" vertex="1">
