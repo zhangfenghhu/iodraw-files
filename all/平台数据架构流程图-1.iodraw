@@ -46,7 +46,7 @@
         <mxCell id="OTSzIn5FL8yCRSP8Tnob-328" value="释放时间&lt;div&gt;与源强度反演&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#0066CC;fontSize=15;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="180" y="210" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="OTSzIn5FL8yCRSP8Tnob-329" value="" style="endArrow=none;dashed=1;html=1;fontSize=15;fontColor=#FFFFFF;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" parent="1" source="OTSzIn5FL8yCRSP8Tnob-323" target="OTSzIn5FL8yCRSP8Tnob-323" edge="1">
+        <mxCell id="OTSzIn5FL8yCRSP8Tnob-329" value="" style="endArrow=none;dashed=1;html=1;fontSize=15;fontColor=#FFFFFF;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;" parent="1" source="OTSzIn5FL8yCRSP8Tnob-323" target="OTSzIn5FL8yCRSP8Tnob-323" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="240" y="390" as="sourcePoint" />
             <mxPoint x="290" y="340" as="targetPoint" />
