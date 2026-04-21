@@ -91,13 +91,13 @@
         <mxCell id="OTSzIn5FL8yCRSP8Tnob-341" value="KPI模型" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#006EAF;fillColor=#1ba1e2;fontSize=15;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="180" y="367" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="OTSzIn5FL8yCRSP8Tnob-342" value="EVA,RAROC指标模型" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#67AB9F;fontSize=15;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="OTSzIn5FL8yCRSP8Tnob-342" value="EVA,RAROC指标模型" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#006EAF;fillColor=#1ba1e2;fontSize=15;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="310" y="300" width="172" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="OTSzIn5FL8yCRSP8Tnob-343" value="财务分析模型" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#67AB9F;fontSize=15;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="OTSzIn5FL8yCRSP8Tnob-343" value="财务分析模型" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#006EAF;fillColor=#1ba1e2;fontSize=15;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="310" y="367" width="172" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="OTSzIn5FL8yCRSP8Tnob-344" value="反欺诈模型" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#67AB9F;fontSize=15;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="OTSzIn5FL8yCRSP8Tnob-344" value="反欺诈模型" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#006EAF;fillColor=#1ba1e2;fontSize=15;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="500" y="300" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OTSzIn5FL8yCRSP8Tnob-345" value="信用卡分析模型" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#67AB9F;fontSize=15;fontColor=#FFFFFF;" parent="1" vertex="1">
